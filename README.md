@@ -4,6 +4,10 @@ This project studies whether the decay phase of warmup-stable-decay (WSD) learni
 
 The repository contains the training code, experiment configurations, launch scripts, logs, final metrics, and analysis notebooks used for the project. The saved logs and results are committed so the experiments can be inspected without rerunning every training job, but all runs can also be reproduced from the provided configs and scripts.
 
+## Report
+
+📄 [Read the full project report](results/OptiML_paper.pdf)
+
 ## Contents
 
 - [Environment Setup](#environment-setup)
